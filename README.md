@@ -1,5 +1,5 @@
 # MongoDB_NoSQL
-I have performed all Types of Queries using PYMONGO Library.
+I have performed all Types of Query Operations using PYMONGO Library.
 Python can be used in database applications.
 MongoDB stores data in JSON-like documents, which makes the database very flexible and scalable.
 One of the most popular NoSQL database is MongoDB.
